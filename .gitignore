@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+output/declaratie.pdf
+data/persons.json
+data/reasons.json
